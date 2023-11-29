@@ -9,11 +9,15 @@ To get set up and running in your local development environment, follow these st
 2. Install dependencies
 
     Run `npm install`.
-    
+
 3. Create the `.env` file
+
     Copy the contents of the `.env.example` file to the `.env` file.
+
 4. Create a new key
+
     Run `php artisan key:generate`.
+    
 5. Run the project
     - Run `php artisan serve`
     - Open a browser window to `localhost:8000`
