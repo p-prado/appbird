@@ -4,3 +4,15 @@
     align-items: center;
     text-align: center;
 }
+audio {display: none}
+
+.bird-card {
+    transition-property: border-color, opacity;
+    transition-duration: 500ms;
+    transition-timing-function: ease-in-out;
+}
+
+.playing {
+    border-color: black;
+    opacity: 0.5;
+}
