@@ -7,7 +7,9 @@ To get set up and running in your local development environment, follow these st
     - Run `git clone https://github.com/p-prado/appbird.git`
     - Cd into the project directory.
 2. Install dependencies
+
     Run `npm install`.
+    
 3. Create the `.env` file
     Copy the contents of the `.env.example` file to the `.env` file.
 4. Create a new key
